@@ -1,74 +1,64 @@
 <div align="center">
 
-# Hi there 👋, I'm Reza Soroush!
+# Reza Soroush
 
-**Software Engineer | Business Enthusiast | Researcher | Creative**
+### Software Engineer focused on architecture, startups, and complex systems
 
-Welcome to my GitHub! I bridge the gap between complex engineering problems and business needs. I'm passionate about building scalable solutions and exploring new technologies.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-soroush-a2863a179/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezasoroush28@gmail.com)
-
-</div>
+Code is an artist’s pencil — a tool for creativity, problem‑solving, and building ideas that scale.
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+Software engineer interested in designing scalable backend systems and exploring the intersection of engineering, architecture, and real‑world product problems.  
+I enjoy turning complex ideas into practical systems while keeping technology aligned with business needs.
 
-<div align="center">
+<br/>
+
+LinkedIn: https://www.linkedin.com/in/reza-soroush-a2863a179/  
+Email: rezasoroush28@gmail.com
+
+</div>
+
+---
+
+## Technology Stack
 
 **Languages & Frameworks**
-<br/>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 
-**Databases & Caching**
-<br/>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+C# • .NET • Python • FastAPI • Unity
 
-**DevOps & Tools**
-<br/>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
+**Data & Infrastructure**
 
-</div>
+Microsoft SQL Server • Redis • Elasticsearch
 
-<br/>
+**Tools**
 
-### 📈 GitHub Analytics
+Docker • GitHub • GitLab • Vercel • Jira • Cisco
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.shion.dev/api?username=rezasoroush28&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Reza's Stats" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=rezasoroush28&theme=dark&hide_border=false" alt="Reza's Streak" width="48%"/>
+## GitHub Analytics
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rezasoroush28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="50%"/>
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=rezasoroush28&theme=dark&hide_border=true" width="48%">
+<img src="https://streak-stats.demolab.com/?user=rezasoroush28&theme=dark&hide_border=true" width="48%">
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rezasoroush28&layout=compact&theme=dark&hide_border=true" width="45%">
+</p>
 
-<br/>
+---
 
-### 🏆 Achievements & Vibe
+## Interests
 
-<div align="center">
+- Scalable backend systems  
+- Software architecture  
+- Startup engineering  
+- Bridging business needs with engineering solutions  
+- Creative technology & game development with Unity
 
-![](https://github-profile-trophy.vercel.app/?username=rezasoroush28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-<br/>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-[![](https://komarev.com/ghpvc/?username=rezasoroush28&icon=0&color=blue&label=Profile+Views)](https://github.com/rezasoroush28)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rezasoroush28&color=blue&label=Profile+Views">
+</p>
