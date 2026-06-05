@@ -1,4 +1,3 @@
-```markdown
 <!--
   ╔══════════════════════════════════════════════════════════╗
   ║           REZA SOROUSH — GITHUB PROFILE README           ║
@@ -19,16 +18,17 @@
 
 <div align="center">
 
-```
+<pre>
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ▓                                                            ▓
 ▓   > SYSTEM BOOT ............... [OK]                       ▓
 ▓   > IDENTITY LOADED ........... [REZA SOROUSH]             ▓
-▓   > ROLE ...................... [BACKEND ENGINEER]          ▓
+▓   > ROLE ...................... [BACKEND ENGINEER]         ▓
 ▓   > LOCATION .................. [IRAN / REMOTE]            ▓
 ▓   > STATUS .................... [BUILDING IN STEALTH]      ▓
 ▓                                                            ▓
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+</pre>
 
 </div>
 
@@ -38,26 +38,27 @@
 
 <table>
 <tr>
-<td width="55%">
-
-python
+<td width="55%" valign="top">
+```python
 class RezaSoroush:
-    role       = "Backend Engineer @ Bun Holding"
-    stack      = ["C#", ".NET Core", "Python", "FastAPI"]
-    infra      = ["Docker", "Redis", "SQL Server",
-                  "ElasticSearch", "Vercel"]
-    interests  = ["Startups", "Product Design",
-                  "Research", "AI Systems"]
-    currently  = "Building & breaking things"
-    mantra     = "Ship it. Learn it. Repeat."
+role       = "Backend Engineer @ Bun Holding"
+stack      = ["C#", ".NET Core", "Python", "FastAPI"]
+infra      = ["Docker", "Redis", "SQL Server",
+"ElasticSearch", "Vercel"]
+interests  = ["Startups", "Product Design",
+"Research", "AI Systems"]
+currently  = "Building & breaking things"
+mantra     = "Ship it. Learn it. Repeat."
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&text=INIT%3A%20REZA&fontSize=28&color=0:1a0033,100:0d001a&fontColor=FF00FF&stroke=00FFFF&strokeWidth=2&animation=blinking" width="100%"/>
 
-**`[ Mid-Level+ .NET Developer ]`**
-**`[ Startup Architect ]`**
+<br/>
+
+**`[ Mid-Level+ .NET Developer ]`**  
+**`[ Startup Architect ]`**  
 **`[ Constant Researcher ]`**
 
 </td>
@@ -71,18 +72,21 @@ class RezaSoroush:
 <div align="center">
 
 ### ◈ Backend Core
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### ◈ Data & Infra
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ◈ Platforms & Tools
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -95,53 +99,38 @@ class RezaSoroush:
 ---
 
 ## `// STATS_MODULE.run`
+FF&icon_color=00FFFF&text_color=ffffff&ring_color=FF00FF" width=“48%” />
 
-<div align="center">
+<img src=“https://github-readme-streak-stats.herokuapp.com/?user=rezasoroush28&theme=synthwave&hide_border=true&background=0d0d0d&ring=FF00FF&fire=FF6600&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=888888” width=“48%” />
 
-<img src="https://github-readme-stats.shion.dev/api?username=rezasoroush28&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=FF00FF&icon_color=00FFFF&text_color=ffffff&ring_color=FF00FF" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=rezasoroush28&theme=synthwave&hide_border=true&background=0d0d0d&ring=FF00FF&fire=FF6600&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=888888" width="48%" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rezasoroush28&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=FF00FF&text_color=ffffff" width="40%" />
+<img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=rezasoroush28&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=FF00FF&text_color=ffffff” width=“45%” />
 
 </div>
 
----
+// TROPHY_ROOM.glb
+<div align=“center”>
 
-## `// TROPHY_ROOM.glb`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rezasoroush28&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src=“https://github-profile-trophy.vercel.app/?username=rezasoroush28&theme=synthwave&no-frame=true&no-bg=true&margin-w=8&row=1” width=“100%”/>
 
 </div>
 
----
+// OPEN_CHANNEL.ssh
+<div align=“center”>
 
-## `// SIGNAL_INTERCEPT`
 
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
-</div>
-
----
-
-## `// OPEN_CHANNEL.ssh`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-soroush-a2863a179/)
-[![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezasoroush28@gmail.com)
 
 </div>
 
----
+<div align=“center”>
+
+<img src=“https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0033,100:0d0d0d&section=footer” width=“100%”/>
+
+// EOF — connection closed
+
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0033,100:0d0d0d&section=footer" width="100%"/>
-
-*`// EOF — connection closed`*
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=rezasoroush28&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=FF00
