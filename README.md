@@ -1,24 +1,147 @@
-# 💫 About Me:
-software Engineer<br>business enthusiast<br>researcher<br>creative
+```markdown
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║           REZA SOROUSH — GITHUB PROFILE README           ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reza-soroush-a2863a179/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqbdsFxwjTVCK3OkepIST6w%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezasoroush28@gmail.com) 
+<!-- ░░░ ANIMATED HEADER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=REZA%20SOROUSH&fontSize=60&color=0:0d0d0d,100:1a0033&stroke=FF00FF&strokeWidth=3&fontColor=00FFFF&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Startup%20Builder%20%7C%20Researcher&descSize=16&descAlignY=75&descColor=FF00FF" width="100%"/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rezasoroush28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rezasoroush28&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rezasoroush28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ░░░ VISITOR BADGE ░░░ -->
+<img src="https://komarev.com/ghpvc/?username=rezasoroush28&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rezasoroush28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rezasoroush28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                            ▓
+▓   > SYSTEM BOOT ............... [OK]                       ▓
+▓   > IDENTITY LOADED ........... [REZA SOROUSH]             ▓
+▓   > ROLE ...................... [BACKEND ENGINEER]          ▓
+▓   > LOCATION .................. [IRAN / REMOTE]            ▓
+▓   > STATUS .................... [BUILDING IN STEALTH]      ▓
+▓                                                            ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+</div>
+
+---
+
+## `// ABOUT_ME.exe`
+
+<table>
+<tr>
+<td width="55%">
+
+python
+class RezaSoroush:
+    role       = "Backend Engineer @ Bun Holding"
+    stack      = ["C#", ".NET Core", "Python", "FastAPI"]
+    infra      = ["Docker", "Redis", "SQL Server",
+                  "ElasticSearch", "Vercel"]
+    interests  = ["Startups", "Product Design",
+                  "Research", "AI Systems"]
+    currently  = "Building & breaking things"
+    mantra     = "Ship it. Learn it. Repeat."
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&text=INIT%3A%20REZA&fontSize=28&color=0:1a0033,100:0d001a&fontColor=FF00FF&stroke=00FFFF&strokeWidth=2&animation=blinking" width="100%"/>
+
+**`[ Mid-Level+ .NET Developer ]`**
+**`[ Startup Architect ]`**
+**`[ Constant Researcher ]`**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `// TECH_STACK.dat`
+
+<div align="center">
+
+### ◈ Backend Core
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ◈ Data & Infra
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ◈ Platforms & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## `// STATS_MODULE.run`
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=rezasoroush28&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=FF00FF&icon_color=00FFFF&text_color=ffffff&ring_color=FF00FF" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=rezasoroush28&theme=synthwave&hide_border=true&background=0d0d0d&ring=FF00FF&fire=FF6600&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=888888" width="48%" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rezasoroush28&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=FF00FF&text_color=ffffff" width="40%" />
+
+</div>
+
+---
+
+## `// TROPHY_ROOM.glb`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rezasoroush28&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
+## `// SIGNAL_INTERCEPT`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+
+</div>
+
+---
+
+## `// OPEN_CHANNEL.ssh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-soroush-a2863a179/)
+[![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezasoroush28@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0033,100:0d0d0d&section=footer" width="100%"/>
+
+*`// EOF — connection closed`*
+
+</div>
